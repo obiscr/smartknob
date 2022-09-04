@@ -6,6 +6,10 @@ A brushless gimbal motor is paired with a magnetic encoder to provide closed-loo
 [![Build Status](https://github.com/scottbez1/smartknob/actions/workflows/electronics.yml/badge.svg?branch=master)](https://github.com/scottbez1/smartknob/actions/workflows/electronics.yml)
 [![Build Status](https://github.com/scottbez1/smartknob/actions/workflows/pio.yml/badge.svg?branch=master)](https://github.com/scottbez1/smartknob/actions/workflows/pio.yml)
 
+# Build
+
+Plaese see [SmartKnob Flash Firmware](https://www.obiscr.com/article/SmartKnob-Firmware)
+
 # Designs
 
 ## SmartKnob View
