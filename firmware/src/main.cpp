@@ -5,6 +5,10 @@
 #include "interface_task.h"
 #include "motor_task.h"
 
+#include "BleKeyboard.h"
+
+BleKeyboard bleKeyboard;
+
 #if SK_DISPLAY
 static DisplayTask display_task = DisplayTask(0);
 static DisplayTask* display_task_p = &display_task;
@@ -20,6 +24,7 @@ static QueueHandle_t knob_state_debug_queue;
 
 void setup() {
   Serial.begin(115200);
+  bleKeyboard.begin();
 
   motor_task.begin();
   interface_task.begin();

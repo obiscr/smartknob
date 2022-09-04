@@ -1,0 +1,6 @@
+[submodule "firmware/lib/lvgl"]
+	path = firmware/lib/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "firmware/lib/ble"]
+	path = firmware/lib/ble
+	url = https://github.com/T-vK/ESP32-BLE-Keyboard.git
