@@ -8,7 +8,7 @@ A brushless gimbal motor is paired with a magnetic encoder to provide closed-loo
 
 # Build
 
-Plaese see [SmartKnob Flash Firmware](https://www.obiscr.com/article/SmartKnob-Firmware)
+Please see this article: [SmartKnob Flash Firmware](https://www.obiscr.com/article/SmartKnob-Firmware)
 
 # Designs
 
